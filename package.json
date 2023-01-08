@@ -1,0 +1,15 @@
+{
+  "name": "node_js_html_slides",
+  "version": "1.0.0",
+  "description": "website_first_slide",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "author": "kaustubh",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
